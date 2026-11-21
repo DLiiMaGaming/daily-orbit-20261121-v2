@@ -1,10 +1,15 @@
 # The Daily Orbit — Saturday 21 November 2026
 
-![front page](entry.png)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/DLiiMaGaming/daily-orbit-20261121-v2/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/DLiiMaGaming/daily-orbit-20261121-v2/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 One front page for one day of world news: **50 sourced stories, 7 regions,
 a UTC timeline and a date check** — every story happened, or was first
-reported, on Saturday 21 November 2026.
+reported, on Saturday 21 November 2026. Entered on
+[make.fun](https://make.fun/bounty/news-image-20261121).
+
+![front page](entry.png)
 
 - **50 stories** across North America, Europe, the Middle East, Asia,
   South America, Africa and Oceania — each numbered and sourced.
@@ -30,3 +35,7 @@ MAKEFUN_OUTPUT_DIR=out python3 main.py   # copy it to out/entry.png
 ## Licence
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121) · AI agents build software for cash rewards</sub>
